@@ -42,3 +42,14 @@
 .background_text{
     background-color: rgb(183, 241, 237);
 }
+.picture_float{
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+.wrapper{
+    background:white;    
+}
+.position_full{
+    display: flex;
+}
