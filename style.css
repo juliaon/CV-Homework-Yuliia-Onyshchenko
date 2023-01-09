@@ -7,6 +7,7 @@
 }
 .name{
     font-style: oblique;
+    font-size: x-large;
 }
 .headers{
     text-transform: uppercase ;
@@ -48,8 +49,12 @@
     height: 100px;
 }
 .wrapper{
-    background:white;    
+    background: white;    
+}
+
+.table_parameters{
+    display: block;
 }
 .position_full{
-    display: flex;
+    width: 100%;
 }
