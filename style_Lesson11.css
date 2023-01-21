@@ -1,0 +1,10 @@
+.grid_CV_Item1{
+    background-color: bisque;
+    grid-template-columns: 200px 400px 200px;
+}
+.grid_CV_Item2{
+    background-color: paleturquoise;
+}
+.CV_background{
+ background-color: aqua;   
+}
